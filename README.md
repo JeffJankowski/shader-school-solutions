@@ -1,6 +1,9 @@
 # Solutions for Shader-School
 
+### Status
+
 **Currently Completed Lessons (up to and including):** _17-light-1_
+
 ---
 
 ### Installation/Running
